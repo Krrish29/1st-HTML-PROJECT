@@ -1,0 +1,70 @@
+.name {
+    display: inline-block;
+    color: white;
+    margin-right: 400px;
+    padding-left: 100px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.search-bar {
+    display: inline-block;
+    margin-right: 200px;
+}
+a {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+}
+a:hover {
+    color: brown;
+}
+body {
+    background:url(img/game4.jpeg);
+    background-size:100%;
+    background-blend-mode:soft-light;
+}
+.game{
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.game:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}
+.join {
+    margin-top: 20px;
+    margin-left: 630px;
+    margin-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 25px;
+    padding-left: 25px;
+    background-color: white;
+    border-color: rgb(41,118,211);
+    color: rgb(41,118,211);
+    cursor: pointer;
+    border-radius: 2px;
+}
+.learn-more {
+    margin-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 25px;
+    padding-left: 25px;
+    background-color: white;
+    border-color: rgb(41,118,211);
+    color: rgb(41,118,211);
+    cursor: pointer;
+    border-radius: 2px;
+}
+.join:hover {
+    color: white;
+    background-color: rgb(41,118,211);
+}
+.learn-more:hover {
+    color: white;
+    background-color: rgb(41,118,211);
+}
