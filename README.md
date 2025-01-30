@@ -6,7 +6,6 @@ This is my first project using HTML and CSS. The purpose of this project is to c
 ## Features
 - Basic HTML structure (headings, paragraphs, lists, links, images)
 - Simple CSS styling (colors, fonts, spacing, borders)
-- Responsive design for different screen sizes
 
 ## Technologies Used
 - HTML5
